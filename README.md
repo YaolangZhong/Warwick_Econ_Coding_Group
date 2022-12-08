@@ -14,8 +14,8 @@ this is the repo for the collection of learning resources of the coding group, i
 To get familiar to VSCode probably the most effective way is going through 
 
 1. the official docs: https://code.visualstudio.com/docs 
-2. 
-3. the Youtube channel: https://code.visualstudio.com/docs
+
+2. the Youtube channel: https://code.visualstudio.com/docs
 
 
 ## Git Tutorials
