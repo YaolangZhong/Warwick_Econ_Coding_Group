@@ -1,7 +1,7 @@
 # Warwick_Econ_Coding_Group
-this is the repo for the collection of learning resources of the coding group, in the University of Warwick Department of Economics.
+This is the repo for the collection of learning resources of the coding group, in the University of Warwick Department of Economics.
 
-the link for the weekly sharing topics is below:
+The link for the weekly sharing topics is below:
 https://docs.google.com/spreadsheets/d/1YnIb_NVerUpTZ3hWKz4mdeSaKUav2049ZZRSGtf68Sg/edit?usp=sharing
 
 With the collections of preference among our research students, we list below not only resources of programming languages, but also softwares that we think would facilitate our research once in the toolkit.
